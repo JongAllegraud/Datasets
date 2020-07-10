@@ -1,18 +1,18 @@
 ﻿Skill_Axis,Axis_Level,Skill,Skill_Level
-People Management,1,75,Lead a team,1
-People Management,,Develop individuals,3
-People Management,,Play management role,2
-People Management,,Transmit knowledge,1
-Delivery,2,33,Work professionally in project context,3
-Delivery,,Organize work and be reliable,2
-Delivery,,Deliver on jobs with clients & internally,2
-Expertise,2,00,Acquire and apply technical skills,2
-Expertise,,Develop and communicate a methodology & offer,2
-Selling,2,00,Detect and handle business opportunities,1
+People Management,1.75,Lead a team,1
+People Management,1.75,Develop individuals,3
+People Management,1.75,Play management role,2
+People Management,1.75,Transmit knowledge,1
+Delivery,2.33,Work professionally in project context,3
+Delivery,2.33,Organize work and be reliable,2
+Delivery,2.33,Deliver on jobs with clients & internally,2
+Expertise,2.00,Acquire and apply technical skills,2
+Expertise,2.00,Develop and communicate a methodology & offer,2
+Selling,2.00,Detect and handle business opportunities,1
 Selling,,Write and presents business proposals,3
-Internal involvment,2,00,Contribute to corporate life & projects,2
-Internal involvment,,Contribute to marketing, communication and recruitment,1
-Internal involvment,,Capitalize, share knowledge and train,3
-Values & Soft skills,2,67,Know-how to be,2
-Values & Soft skills,,Professionalism,3
-Values & Soft skills,,Team spirit,3
+Internal involvment,2.00,Contribute to corporate life & projects,2
+Internal involvment,2.00,Contribute to marketing, communication and recruitment,1
+Internal involvment,2.00,Capitalize, share knowledge and train,3
+Values & Soft skills,2.67,Know-how to be,2
+Values & Soft skills,2.67,Professionalism,3
+Values & Soft skills,2.67,Team spirit,3
